@@ -1,0 +1,6 @@
+{
+  "name": "ScreenAI - AI Resume Screening & Candidate Ranking System",
+  "description": "Decision-support system for recruiters to screen resumes against job descriptions using NLP TF-IDF matching and Gemini AI candidate ranking, skill gap detection, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
